@@ -1,8 +1,0 @@
-#!/bin/sh
-
-javac -encoding gb2312 -cp .:../lib/* -Xlint:deprecation -Xlint:unchecked sjy/elwg/notation/*.java
-javac -encoding gb2312 -cp .:../lib/* -Xlint:deprecation -Xlint:unchecked sjy/elwg/notation/*/*.java
-javac -encoding gb2312 -cp .:../lib/* -Xlint:deprecation -Xlint:unchecked sjy/elwg/notation/*/*/*.java
-javac -encoding gb2312 -cp .:../lib/* -Xlint:deprecation -Xlint:unchecked sjy/elwg/utility/*.java
-
-exit 0
