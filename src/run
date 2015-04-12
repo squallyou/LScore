@@ -1,0 +1,5 @@
+#!/bin/sh
+
+java -cp .:../lib/* sjy.elwg.notation.Main_Applet
+
+exit 0

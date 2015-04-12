@@ -1,0 +1,108 @@
+<configs>
+
+<button-panel title="exercise" enabled="1">
+	<whole-note enabled="1">	
+	</whole-note>		
+		
+	<half-note enabled="1">  
+	</half-note>	
+			
+    <quarter-note enabled="1">	
+	</quarter-note>	
+				
+    <note-8th enabled="1">	
+	</note-8th>		
+		
+    <note-16th enabled="1">	
+	</note-16th>
+	
+	<note-32th enabled="1">	
+	</note-32th>
+				
+    <note-64th enabled="1">	
+	</note-64th>
+	
+	<rest enabled="1">	
+	</rest>	
+	
+	<single-dot enabled="1">
+	</single-dot>
+		
+	<double-dot enabled="1">
+	</double-dot>
+	
+	<natural enabled="1">
+	</natural>
+	
+	<sharp enabled="1">
+	</sharp>	
+		
+	<double-sharp enabled="1">
+	</double-sharp>
+	
+	<flat enabled="1">
+	</flat>	
+	
+	<double-flat enabled="1">
+	</double-flat>	
+	
+	<stress enabled="0">
+	</stress>	
+	
+	<tie enabled="1">
+	</tie>	
+		
+	<tuplet enabled="1">
+	</tuplet>			
+	
+	
+	
+	
+	<tremolo enabled="1">
+	</tremolo>	
+	
+	<graceNote enabled="1">	
+	</graceNote>
+	
+	<graceSymbol enabled="1">	
+	</graceSymbol>
+	
+	<ornament enabled="1">	
+	</ornament>
+	
+	<dynamic enabled="1">	
+	</dynamic>
+	
+	<repeatSymbol enabled="1">	
+	</repeatSymbol>
+	
+	<repeatLine enabled="1">	
+	</repeatLine>
+	
+	<barline enabled="1">	
+	</barline>
+	
+	<pedalStart enabled="1">	
+	</pedalStart>
+	
+	<pedalEnd enabled="1">	
+	</pedalEnd>	
+	
+	<breath enabled="1">	
+	</breath>
+	
+	<tempo enabled="1">	
+	</tempo>
+	
+	<creLine enabled="1">	
+	</creLine>
+	
+	<va enabled="1">	
+	</va>
+	
+	<slurLine enabled="1">	
+	</slurLine>
+	
+    </button-panel>
+
+</configs>
